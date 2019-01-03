@@ -29,6 +29,7 @@
     "koa-static": "^2.0.0",
     "lodash": "2.x",
     "moment": "^2.20.1",
+    "mongojs": "^2.6.0",
     "opn": "^4.0.2",
     "promisify-node": "^0.5.0",
     "prompt-lite": "0.1.1",
@@ -39,6 +40,7 @@
     "stats-lite": "^2.0.4",
     "tiny-promisify": "^0.1.1",
     "toml": "^2.3.0",
+    "tulind": "^0.8.13",
     "ws": "^6.0.0"
   },
   "devDependencies": {
